@@ -16,8 +16,8 @@ Financial news sentiment drives short-term market reactions. This project explor
 
 | Model | Test Accuracy | Test Macro F1 |
 |---|---|---|
-| DistilBERT (fine-tuned) | [fill in] | [fill in] |
-| TF-IDF + Logistic Regression | [fill in] | [fill in] |
+| DistilBERT (fine-tuned) | 81% | 78% |
+| TF-IDF + Logistic Regression | 80% | 76% |
 
 [1-2 sentences on which performed better and why, e.g. transformer captures context vs. baseline relies on keyword frequency.]
 
